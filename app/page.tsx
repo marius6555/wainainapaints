@@ -541,7 +541,7 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mt-8 max-w-7xl border-t border-white/10 pt-5 text-xs text-sky-200">
-          © {new Date().getFullYear()} Wainaina Paints. All rights reserved.
+         © 2026 Wainaina Paints. All rights reserved.
         </div>
       </footer>
 
